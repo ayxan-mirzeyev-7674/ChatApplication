@@ -1,4 +1,5 @@
-Full-Stack Realtime Chat Application 💬🚀
+Full-Stack Realtime Chat Application 💬 🚀
+
 A modern real-time chat application built with React (Frontend), Flask (Backend), and Socket.IO for seamless communication. This app supports private messaging, typing indicators, and more, delivering a smooth and interactive chat experience.
 
 ✨ Features:
